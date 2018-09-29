@@ -1,0 +1,33 @@
+# IDEA family project folder
+.idea
+
+# Cache directories
+.sass-cache
+.tmp
+
+# Installed NPM modules
+node_modules
+
+# Generated JavaScript and sourcemaps
+app/scripts/bundle.js
+app/scripts/bundle.js.map
+
+# Generated distribution
+dist/*
+
+# Generated CSS
+app/styles/main.css
+
+# Deploy logs
+logs/*
+
+# Deploy package
+*.tar.gz
+
+# .DS_Store
+.DS_Store
+
+ssh-config.js
+
+app/.htaccess
+app/assets/php/contact.php
